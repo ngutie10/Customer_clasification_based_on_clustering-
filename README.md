@@ -1,4 +1,4 @@
-# Customer_clasification_based_on_clustering-
+# Supervised and no supervised clustering for customer clasification
 
 <h2>Project Title: Predicting Gym-Member Churn &amp; Segmenting Customer Profiles</h2>
 
